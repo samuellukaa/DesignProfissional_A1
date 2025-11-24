@@ -22,16 +22,16 @@ Documento formatado em LaTeX seguindo padrões de mercado.
 
 ### 🔹 3. Presença Digital (GitHub)
 Meu perfil foi organizado profissionalmente, contendo biografia e tecnologias de interesse.
-* Link: [Acessar Perfil](https://github.com/usuario-do-samuel)
+* Link: [Acessar Perfil](https://github.com/samuellukaa)
 
 ### 🔹 4. Repositórios Acadêmicos
 Projetos e códigos desenvolvidos durante o semestre:
 
-* **Algoritmos e Lógica:** [Ver Código](https://github.com/usuario-do-samuel/1sem-Algoritmos-C)
-* **Matemática Computacional:** [Ver Código](https://github.com/usuario-do-samuel/1sem-Matematica)
-* **Fundamentos de TI:** [Ver Código](https://github.com/usuario-do-samuel/1sem-Fundamentos-TI)
-* **Banco de Dados:** [Ver Código](https://github.com/usuario-do-samuel/1sem-Modelagem-Dados)
-* **Projeto Web (FitLife):** [Ver Código](https://github.com/usuario-do-samuel/fitlife-projeto-final-gleidson)
+* **Algoritmos e Lógica:** [Ver Código](https://github.com/samuellukaa/1sem-Algoritmos-C)
+* **Matemática Computacional:** [Ver Código](https://github.com/samuellukaa/1sem-Matematica)
+* **Fundamentos de TI:** [Ver Código](https://github.com/samuellukaa/1sem-Fundamentos-TI)
+* **Banco de Dados:** [Ver Código](https://github.com/samuellukaa/1sem-Modelagem-Dados)
+* **Projeto Web (FitLife):** [Ver Código](https://github.com/samuellukaa/fitlife-projeto-final-gleidson)
 
 ---
 
