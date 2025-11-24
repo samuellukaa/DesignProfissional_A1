@@ -18,7 +18,7 @@ Comprovante de inscrição em vaga de estágio na área de tecnologia.
 
 ### 🔹 2. Currículo Profissional
 Documento formatado em LaTeX seguindo padrões de mercado.
-* [Baixar Currículo (PDF)](./Curriculo_Samuel_Luka.pdf)
+* [Baixar Currículo (PDF)](./curriculo_samuel.pdf)
 
 ### 🔹 3. Presença Digital (GitHub)
 Meu perfil foi organizado profissionalmente, contendo biografia e tecnologias de interesse.
@@ -31,7 +31,6 @@ Projetos e códigos desenvolvidos durante o semestre:
 * **Matemática Computacional:** [Ver Código](https://github.com/samuellukaa/1sem-Matematica)
 * **Fundamentos de TI:** [Ver Código](https://github.com/samuellukaa/1sem-Fundamentos-TI)
 * **Banco de Dados:** [Ver Código](https://github.com/samuellukaa/1sem-Modelagem-Dados)
-* **Projeto Web (FitLife):** [Ver Código](https://github.com/samuellukaa/fitlife-projeto-final-gleidson)
 
 ---
 
